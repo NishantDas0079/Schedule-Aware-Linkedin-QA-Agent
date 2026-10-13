@@ -497,7 +497,7 @@ These rules are the contract that makes the system safe to leave running unatten
 1. **Clone the repository.**
    ```bash
    git clone https://github.com/NishantDas0079/schedule-aware-linkedin-qa-agent.git
-   cd schedule-aware-linkedin-qa-agent
+   cd Schedule-Aware-Linkedin-QA-Agent
    ```
 2. **Copy environment template.** Fill credential names only — never commit secrets.
    ```bash
@@ -640,7 +640,7 @@ The scenarios below were exercised end to end during development. Each row recor
 
 **License.** Released under the [MIT License](./LICENSE).
 
-**Author.** **Nishant** — second-year B.Tech student in Artificial Intelligence, India.
+**Author.** **Nishant** — second-year B.Sc student in Computer Science, India.
 
 - GitHub: [@NishantDas0079](https://github.com/NishantDas0079)
 - LinkedIn: [nishant-das-69470437a](https://linkedin.com/in/nishant-das-69470437a)
